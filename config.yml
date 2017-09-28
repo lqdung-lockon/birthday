@@ -1,0 +1,5 @@
+name: BirthdayEntry
+code: BirthdayEntry
+version: 1.0.0
+service:
+    - BirthdayEntryServiceProvider
