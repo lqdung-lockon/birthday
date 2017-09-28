@@ -1,6 +1,6 @@
 {
   "name":"ec-cube/BirthdayEntry",
-  "description":"\u30e1\u30fc\u30ab\u30fc\u7ba1\u7406\u30d7\u30e9\u30b0\u30a4\u30f3 v.1.0.0",
+  "description":"This is demo v.1.0.0",
   "version":"1.0.0",
   "type":"eccube-plugin",
   "require":
